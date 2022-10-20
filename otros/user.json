@@ -1,12 +1,12 @@
 {
-  "name": "Kyle",
-  "favouriteNumber": 3,
-  "isProgrammer": true,
-  "hobbies": ["football", "volley", "basketball"],
-  "friends": [{
-    "name": "Joey",
-    "favouriteNumber": 5,
-    "isProgrammer": false,
-    "hobbies": ["football", "tennis"]
+  "name":"Kyle",
+  "favouriteNumber":3,
+  "isProgrammer":true,
+  "hobbies":["football", "volley", "basketball"],
+  "friends":[{
+    "name":"Joey",
+    "favouriteNumber":5,
+    "isProgrammer":false,
+    "hobbies":["football", "tennis"]
   }]
 }
